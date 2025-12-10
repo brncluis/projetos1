@@ -152,19 +152,51 @@ void loop() {
     if (conteudo == "D6 37 28 06") {
       lcd.setCursor(0, 0);
       lcd.print("Moto G24");
+
+      delay(500);
+
+      digitalWrite(LED_AUTORIZADO, HIGH);
+      digitalWrite(LED_NEGADO, LOW);
+
+      lcd.clear();
+      lcd.setCursor(0, 0);
+      lcd.print("Pontuacao:"); 
+      lcd.setCursor(0, 1);
+      lcd.print("700 pontos");
     }
     else if (conteudo == "AB E4 27 06") {
       lcd.setCursor(0, 0);
       lcd.print("Iphone 16e");
+
+      delay(500);
+
+      digitalWrite(LED_AUTORIZADO, HIGH);
+      digitalWrite(LED_NEGADO, LOW);
+
+      lcd.clear();
+      lcd.setCursor(0, 0);
+      lcd.print("Pontuacao:"); 
+      lcd.setCursor(0, 1);
+      lcd.print("1800 pontos");
     }
     else if (conteudo == "12 3D 26 06") {
       lcd.setCursor(0, 0);
       lcd.print("POCO M7 Pro 5G");
+
+      delay(500);
+
+      digitalWrite(LED_AUTORIZADO, HIGH);
+      digitalWrite(LED_NEGADO, LOW);
+
+      lcd.clear();
+      lcd.setCursor(0, 0);
+      lcd.print("Pontuacao:"); 
+      lcd.setCursor(0, 1);
+      lcd.print("800 pontos");
     }
-    digitalWrite(LED_AUTORIZADO, HIGH);
-    digitalWrite(LED_NEGADO, LOW);
 
     delay(1500);
+
     lcd.setCursor(0, 0);
     lcd.print("APROVADO :)");
     lcd.setCursor(0, 1);
