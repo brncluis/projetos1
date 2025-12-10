@@ -86,6 +86,16 @@ Identificação de:
 
 ---
 
+## 🔗Links Importantes 
+
+- **Site do projeto:** [Site do projeto](https://sites.google.com/d/1HV-77ZER1Gf2iPuhkyGmezTb6rg69hqU/p/1cNJ8Bvg-PvWdWN7WMzFj0t8q0wVYs9lX/edit)
+- **Arquivo Tutorial:** [Arquivo Tutorial](https://docs.google.com/document/d/1vXo3E_sJ3-TH7dZ_dbiQM6brFL8VWvAUxcL3b896gq4/edit?usp=sharing)
+- **Figma:** [Link com nossas entregas](https://www.figma.com/board/H2qjw3PHvP5TRrCoJ5S9v4/Projeto-1-SR2?t=K2DOZ8t15EV5Ctb1-1)
+
+
+
+
+
 ## 👥 Integrantes do Grupo
 
 ### Alice Mohammad
